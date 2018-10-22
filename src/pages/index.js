@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'gatsby';
-import Header from '../components/header';
+import Header from '../components/Header/header';
 
 // Any React component defined in src/pages/*.js will automatically become a page. Let’s see this in action.
 export default () => (
