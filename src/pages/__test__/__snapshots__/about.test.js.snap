@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`About renders correctly 1`] = `
+<div
+  style={
+    Object {
+      "color": "teal",
+    }
+  }
+>
+  <div>
+    <h1>
+      This is a header.
+    </h1>
+    About Gatsby
+    <Link
+      to="/contact/"
+    >
+      Contact  /
+    </Link>
+    <Link
+      to="/about/"
+    >
+      About  /
+    </Link>
+    <Link
+      to="/"
+    >
+        Home
+    </Link>
+    <hr />
+  </div>
+  <p>
+    Such wow. Very React.
+  </p>
+</div>
+`;

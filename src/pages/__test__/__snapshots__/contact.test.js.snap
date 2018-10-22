@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Contact renders correctly 1`] = `
+<div>
+  <Link
+    to="/"
+  >
+    Home
+  </Link>
+  <form>
+    <label>
+      Email:
+      <input
+        onChange={[Function]}
+        placeholder="email"
+      />
+    </label>
+    <input
+      type="submit"
+      value="Submit"
+    />
+  </form>
+</div>
+`;
